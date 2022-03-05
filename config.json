@@ -1,0 +1,7 @@
+{
+    "cron": "cron(0 12 * * ? *)",
+    "email": "",
+    "subreddits": [
+        "LifeProTips"
+    ]
+}
